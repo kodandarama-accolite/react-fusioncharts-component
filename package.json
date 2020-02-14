@@ -39,35 +39,35 @@
     "url": "https://github.com/fusioncharts/react-fusioncharts-component/issues"
   },
   "dependencies": {
-    "uuid": "^3.2.1"
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.1.0",
-    "@babel/core": "^7.1.0",
-    "@babel/preset-env": "^7.1.0",
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
     "@babel/preset-es2015": "^7.0.0-beta.53",
-    "@babel/preset-react": "^7.0.0",
-    "@babel/preset-stage-0": "^7.0.0",
+    "@babel/preset-react": "^7.8.3",
+    "@babel/preset-stage-0": "^7.8.3",
     "babel-loader": "^8.0.4",
     "eslint": "^4.19.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-prettier": "^3.1.0",
-    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-react": "^7.18.3",
     "fusioncharts": "^3.13.5-sr.1",
     "jest": "^22.4.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",
     "nodemon": "^2.0.2",
     "prop-types": "^15.6.2",
     "react": "^16.12.0",
     "react-addons-test-utils": "15.3.0",
     "react-component-gulp-tasks": "^0.7.6",
     "react-dom": "^16.12.0",
-    "react-test-renderer": "^16.2.0",
+    "react-test-renderer": "^16.12.0",
     "serve": "^10.0.1",
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.1"
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.10"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0 || ^16.0.0"
